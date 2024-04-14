@@ -37,7 +37,7 @@ const PrivacyPolicy = () => {
         <h2 className="text-2xl font-semibold mb-2 ">Security</h2>
         <p>
           We strive to provide a secure environment for your app experience.
-          However, it's important to remember that no method of transmission over
+          However, it&apos;s important to remember that no method of transmission over
           the internet or electronic storage is 100% secure. While we take
           reasonable steps to protect your information, we cannot guarantee its
           absolute security.
