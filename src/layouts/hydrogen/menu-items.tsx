@@ -66,6 +66,21 @@ export const menuItems = [
     ],
   },
   {
+    name: "Srimad-Bhagavad-Gita",
+    href: "#",
+    icon: <PiPackageDuotone />,
+    dropdownItems: [
+      {
+        name: "Contact Us",
+        href: routes.gita["contact-us"],
+      },
+      {
+        name: "Privacy Policy",
+        href: routes.gita["privacy-policy"],
+      },
+    ],
+  },
+  {
     name: "",
     href: "",
     icon: "",
