@@ -4,11 +4,11 @@ const PrivacyPolicy = () => {
   return (
     <div className="flex flex-col justify-center items-center min-h-screen bg-gray-100 py-12 px-4">
       <h1 className="text-3xl font-bold text-center mb-8 ">
-        Word Game! - Privacy Policy
+        ScrambleX! - Privacy Policy
       </h1>
       <div className="w-full max-w-3xl text-gray-700 space-y-6">
         <p>
-          <b>Word Game!</b> is built by Aayushi Singh. This Privacy Policy
+          <b>ScrambleX!</b> is built by Aayushi Singh. This Privacy Policy
           informs you about our practices regarding the collection, use, and
           disclosure of personal information when you use our app and the
           choices you have associated with that data.
@@ -16,7 +16,7 @@ const PrivacyPolicy = () => {
 
         <h2 className="text-2xl font-semibold mb-2 ">Information Collection</h2>
         <p>
-          <b>Word Game</b> prioritizes your privacy. We do not collect any
+          <b>ScrambleX</b> prioritizes your privacy. We do not collect any
           personal information from you through the app. This includes data like
           your name, email address, contacts, or anything that could be used to
           identify you.
@@ -41,7 +41,7 @@ const PrivacyPolicy = () => {
 
         <h2 className="text-2xl font-semibold mb-2 ">Third-Party Services</h2>
         <p>
-          <b>Word Game!</b> does not currently integrate with any third-party
+          <b>ScrambleX!</b> does not currently integrate with any third-party
           services that might collect your information.
         </p>
 

@@ -7,8 +7,8 @@ export const routes = {
     "contact-us": "/Srimad-Bhagavad-Gita/contact-us",
     "privacy-policy": "/Srimad-Bhagavad-Gita/privacy-policy"
   },
-  wordgame: {
-    "contact-us": "/WordGame/contact-us",
-    "privacy-policy": "/WordGame/privacy-policy"
+  scramblex: {
+    "contact-us": "/ScrambleX/contact-us",
+    "privacy-policy": "/ScrambleX/privacy-policy"
   }
 };

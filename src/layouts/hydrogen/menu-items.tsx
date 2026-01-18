@@ -81,17 +81,17 @@ export const menuItems = [
     ],
   },
   {
-    name: "WordGame",
+    name: "ScrambleX",
     href: "#",
     icon: <PiPackageDuotone />,
     dropdownItems: [
       {
         name: "Contact Us",
-        href: routes.wordgame["contact-us"],
+        href: routes.scramblex["contact-us"],
       },
       {
         name: "Privacy Policy",
-        href: routes.wordgame["privacy-policy"],
+        href: routes.scramblex["privacy-policy"],
       },
     ],
   },
