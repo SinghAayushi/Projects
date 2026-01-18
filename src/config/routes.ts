@@ -6,5 +6,9 @@ export const routes = {
   gita: {
     "contact-us": "/Srimad-Bhagavad-Gita/contact-us",
     "privacy-policy": "/Srimad-Bhagavad-Gita/privacy-policy"
+  },
+  wordgame: {
+    "contact-us": "/WordGame/contact-us",
+    "privacy-policy": "/WordGame/privacy-policy"
   }
 };
