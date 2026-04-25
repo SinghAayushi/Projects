@@ -96,6 +96,21 @@ export const menuItems = [
     ],
   },
   {
+    name: "Suvichar",
+    href: "#",
+    icon: <PiPackageDuotone />,
+    dropdownItems: [
+      {
+        name: "Contact Us",
+        href: routes.suvichar["contact-us"],
+      },
+      {
+        name: "Privacy Policy",
+        href: routes.suvichar["privacy-policy"],
+      },
+    ],
+  },
+  {
     name: "",
     href: "",
     icon: "",

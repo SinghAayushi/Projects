@@ -10,5 +10,9 @@ export const routes = {
   scramblex: {
     "contact-us": "/ScrambleX/contact-us",
     "privacy-policy": "/ScrambleX/privacy-policy"
+  },
+  suvichar: {
+    "contact-us": "/Suvichar/contact-us",
+    "privacy-policy": "/Suvichar/privacy-policy"
   }
 };
