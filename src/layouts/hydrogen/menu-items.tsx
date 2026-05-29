@@ -111,6 +111,21 @@ export const menuItems = [
     ],
   },
   {
+    name: "ResumeNest",
+    href: "#",
+    icon: <PiPackageDuotone />,
+    dropdownItems: [
+      {
+        name: "Contact Us",
+        href: routes.resumeNest["contact-us"],
+      },
+      {
+        name: "Privacy Policy",
+        href: routes.resumeNest["privacy-policy"],
+      },
+    ],
+  },
+  {
     name: "",
     href: "",
     icon: "",

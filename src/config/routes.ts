@@ -14,5 +14,9 @@ export const routes = {
   suvichar: {
     "contact-us": "/Suvichar/contact-us",
     "privacy-policy": "/Suvichar/privacy-policy"
+  },
+  resumeNest: {
+    "contact-us": "/ResumeNest/contact-us",
+    "privacy-policy": "/ResumeNest/privacy-policy"
   }
 };
